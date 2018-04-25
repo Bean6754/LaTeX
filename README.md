@@ -6,6 +6,7 @@ Having a go at LaTeX.
 
 ### Personal instructions.
 
-Convert LaTeX source to PDF: `pdflatex filename.tex`
+Convert LaTeX source to PDF.
 
-  filename.tex --------> filename.pdf
+* `pdflatex filename.tex`
+  + filename.tex --------> filename.pdf
